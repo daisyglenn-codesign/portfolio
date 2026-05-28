@@ -12,7 +12,7 @@ function App() {
                     <a href="#contact" className="transition hover:text-white">Contact</a>
                 </nav>
                 <a
-                    href="/Daisy_Glenn_Cometa_Resume.pdf"
+                    href="./Daisy_Glenn_Cometa_Resume.pdf"
                     download="Daisy_Glenn_Cometa_Resume.pdf"
                     className="rounded-full bg-brand px-5 py-2.5 text-sm font-semibold text-white shadow-lg shadow-violet-500/20 transition hover:bg-brandDark"
                 >
@@ -34,7 +34,7 @@ function App() {
                 </div>
                 <div className="relative isolate overflow-hidden rounded-[2rem] border border-white/10 bg-slate-900/70 p-4 shadow-2xl shadow-black/30">
                     <div className="absolute inset-x-0 top-4 -z-10 h-48 bg-brand/20 blur-3xl" />
-                    <img src="/profile_daisyglenn.jpg" alt="profile" className="h-full w-full rounded-[1.75rem] object-cover object-center shadow-2xl shadow-black/40" />
+                    <img src="./profile_daisyglenn.jpg" alt="profile" className="h-full w-full rounded-[1.75rem] object-cover object-center shadow-2xl shadow-black/40" />
                     <div className="absolute bottom-6 left-6 right-6 rounded-3xl border border-white/10 bg-slate-950/80/90 p-5 backdrop-blur lg:opacity-100 lg:backdrop-blur-none">
                         <p className="text-sm uppercase tracking-[0.35em] text-slate-400">Personal Profile</p>
                     </div>
@@ -86,7 +86,7 @@ function App() {
                 <div className="mt-10 grid gap-6 sm:grid-cols-2 md:grid-cols-3">
                     <a href="https://github.com/daisyglenn-codesign/bank-o-rama" target="_blank" rel="noopener noreferrer" className="block">
                         <article className="group overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90 cursor-pointer h-full">
-                            <img src="/project_bankorama.jpg" alt="Bank-O-Rama App" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                            <img src="./project_bankorama.jpg" alt="Bank-O-Rama App" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                             <div className="p-6">
                                 <div className="flex items-center justify-between text-slate-400">
                                     <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Personal</span>
@@ -104,7 +104,7 @@ function App() {
                     </a>
                     <a href="https://techieowlslibrary.com/" target="_blank" rel="noopener noreferrer" className="block">
                         <article className="group overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90 cursor-pointer h-full">
-                            <img src="/project_tol.jpg" alt="Techie Owls Library Website" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                            <img src="./project_tol.jpg" alt="Techie Owls Library Website" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                             <div className="p-6">
                                 <div className="flex items-center justify-between text-slate-400">
                                     <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Commercial</span>
@@ -121,7 +121,7 @@ function App() {
                         </article>
                     </a>
                     <article className="group overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/project_seabeaconer.jpg" alt="Sea Beaconer Website" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./project_seabeaconer.jpg" alt="Sea Beaconer Website" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Commercial</span>
@@ -133,7 +133,7 @@ function App() {
                     </article>
                     <a href="https://play.google.com/store/apps/dev?id=7560396304167482488" target="_blank" rel="noopener noreferrer" className="block">
                         <article className="group overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90 cursor-pointer h-full">
-                            <img src="/project_seabeaconerapps.jpg" alt="Sea Beaconer Apps" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                            <img src="./project_seabeaconerapps.jpg" alt="Sea Beaconer Apps" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                             <div className="p-6">
                                 <div className="flex items-center justify-between text-slate-400">
                                     <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Commercial</span>
@@ -150,7 +150,7 @@ function App() {
                         </article>
                     </a>
                     <article className="group overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/project_seabeaconerebook.jpg" alt="Sea Beaconer E-Books" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./project_seabeaconerebook.jpg" alt="Sea Beaconer E-Books" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Commercial</span>
@@ -161,7 +161,7 @@ function App() {
                         </div>
                     </article>
                     <article className="group overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/project_elosofterp.jpg" alt="Elosoft ERP" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./project_elosofterp.jpg" alt="Elosoft ERP" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Commercial</span>
@@ -172,7 +172,7 @@ function App() {
                         </div>
                     </article>
                     <article className="group overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/project_trmfcompre.jpg" alt="TRMF Compre System" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./project_trmfcompre.jpg" alt="TRMF Compre System" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Commercial</span>
@@ -184,7 +184,7 @@ function App() {
                     </article>
                     <a href="https://www.peerprc.com/" target="_blank" rel="noopener noreferrer" className="block">
                         <article className="group overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90 cursor-pointer h-full">
-                            <img src="/project_peer.jpg" alt="PEER Learning Website" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                            <img src="./project_peer.jpg" alt="PEER Learning Website" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                             <div className="p-6">
                                 <div className="flex items-center justify-between text-slate-400">
                                     <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Commercial</span>
@@ -201,7 +201,7 @@ function App() {
                         </article>
                     </a>
                     <article className="group overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/project_mmlchris.jpg" alt="MMLC HRIS" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./project_mmlchris.jpg" alt="MMLC HRIS" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Commercial</span>
@@ -223,7 +223,7 @@ function App() {
                 </div>
                 <div className="mt-10 flex gap-6 overflow-x-auto pb-4 pr-4 scrollbar-thin scrollbar-thumb-white/10 scrollbar-track-slate-900/50">
                     <article className="group min-w-[280px] max-w-[320px] flex-shrink-0 overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/design_tolbrand.jpg" alt="TOL Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./design_tolbrand.jpg" alt="TOL Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Branding</span>
@@ -234,7 +234,7 @@ function App() {
                         </div>
                     </article>
                     <article className="group min-w-[280px] max-w-[320px] flex-shrink-0 overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/design_sbrassets.jpg" alt="SBR Marine" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./design_sbrassets.jpg" alt="SBR Marine" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">UI/UX Assets</span>
@@ -245,7 +245,7 @@ function App() {
                         </div>
                     </article>
                     <article className="group min-w-[280px] max-w-[320px] flex-shrink-0 overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/design_seabeaconer.jpg" alt="Sea Beaconer Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./design_seabeaconer.jpg" alt="Sea Beaconer Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Logo</span>
@@ -256,7 +256,7 @@ function App() {
                         </div>
                     </article>
                     <article className="group min-w-[280px] max-w-[320px] flex-shrink-0 overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/design_seabeaconerposter.jpg" alt="Sea Beaconer Poster" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./design_seabeaconerposter.jpg" alt="Sea Beaconer Poster" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Poster</span>
@@ -267,7 +267,7 @@ function App() {
                         </div>
                     </article>
                     <article className="group min-w-[280px] max-w-[320px] flex-shrink-0 overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/design_vertexmcs.jpg" alt="Vertex MCS Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./design_vertexmcs.jpg" alt="Vertex MCS Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Logo</span>
@@ -278,7 +278,7 @@ function App() {
                         </div>
                     </article>
                     <article className="group min-w-[280px] max-w-[320px] flex-shrink-0 overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/design_vertexlts.jpg" alt="Vertex LTS Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./design_vertexlts.jpg" alt="Vertex LTS Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Logo</span>
@@ -289,7 +289,7 @@ function App() {
                         </div>
                     </article>
                     <article className="group min-w-[280px] max-w-[320px] flex-shrink-0 overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/design_vertexpms.jpg" alt="Vertex PMS Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./design_vertexpms.jpg" alt="Vertex PMS Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Logo</span>
@@ -300,7 +300,7 @@ function App() {
                         </div>
                     </article>
                     <article className="group min-w-[280px] max-w-[320px] flex-shrink-0 overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/design_vertexsa.jpg" alt="Vertex SA Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./design_vertexsa.jpg" alt="Vertex SA Logo" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Logo</span>
@@ -311,7 +311,7 @@ function App() {
                         </div>
                     </article>
                     <article className="group min-w-[280px] max-w-[320px] flex-shrink-0 overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/design_ipoptixcc.jpg" alt="IP-Optix CC" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./design_ipoptixcc.jpg" alt="IP-Optix CC" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Calling Card</span>
@@ -322,7 +322,7 @@ function App() {
                         </div>
                     </article>
                     <article className="group min-w-[280px] max-w-[320px] flex-shrink-0 overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/80 transition hover:-translate-y-1 hover:border-brandDark hover:bg-slate-900/90">
-                        <img src="/design_ipoptixflyer.jpg" alt="IP-Optix Flyer" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
+                        <img src="./design_ipoptixflyer.jpg" alt="IP-Optix Flyer" className="h-44 w-full object-cover transition duration-500 group-hover:scale-105" />
                         <div className="p-6">
                             <div className="flex items-center justify-between text-slate-400">
                                 <span className="rounded-full bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.35em]">Flyer</span>
@@ -357,13 +357,13 @@ function App() {
                     <p className="text-sm uppercase tracking-[0.35em] text-brand">Extra</p>
                     <div className="mt-3 text-slate-300 flex items-center gap-4">
                         <a href="https://www.credly.com/badges/c90bafc2-7558-4b8a-b3ce-efefebe7d2a8/public_url" target="_blank" rel="noopener noreferrer">
-                            <img src="/aws-cloud-quest-cloud-practitioner-training-badge.png" alt="AWS Cloud Practitioner Training Badge" title="AWS Cloud Practitioner Training Badge" className="h-20 w-20 rounded-full object-cover" />
+                            <img src="./aws-cloud-quest-cloud-practitioner-training-badge.png" alt="AWS Cloud Practitioner Training Badge" title="AWS Cloud Practitioner Training Badge" className="h-20 w-20 rounded-full object-cover" />
                         </a>
                         <a href="https://github.com/daisyglenn-codesign" target="_blank" rel="noopener noreferrer">
-                            <img src="/github.png" alt="GitHub Profile" title="GitHub Profile" className="h-20 w-20 rounded-full object-cover" />
+                            <img src="./github.png" alt="GitHub Profile" title="GitHub Profile" className="h-20 w-20 rounded-full object-cover" />
                         </a>
                         <a href="https://www.linkedin.com/in/daisyglenn/" target="_blank" rel="noopener noreferrer">
-                            <img src="/linkedin.png" alt="LinkedIn Profile" title="LinkedIn Profile" className="h-20 w-20 rounded-full object-cover" />
+                            <img src="./linkedin.png" alt="LinkedIn Profile" title="LinkedIn Profile" className="h-20 w-20 rounded-full object-cover" />
                         </a>
                     </div>
                 </div>
