@@ -350,7 +350,7 @@ function App() {
                     </div>
                     <div className="rounded-3xl border border-white/10 bg-slate-950/80 p-6">
                         <p className="text-sm text-slate-400">Phone</p>
-                        <p className="mt-3 text-lg font-semibold text-white">+63 960 809 9053</p>
+                        <p className="mt-3 text-lg font-semibold text-white">+63 9608099053</p>
                     </div>
                 </div>
                 <div className="mt-10 rounded-3xl bg-brand/10 p-6 text-slate-200">
