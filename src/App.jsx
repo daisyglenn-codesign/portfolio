@@ -24,7 +24,7 @@ function App() {
         <main className="mx-auto max-w-6xl px-6 py-10 lg:py-16">
             <section id="about" className="grid gap-10 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
                 <div className="space-y-6">
-                    <p className="inline-flex rounded-full bg-white/10 px-4 py-2 text-sm text-slate-200 ring-1 ring-white/10">IT Solutions Specialist • Full-Stack Developer • Graphic Designer</p>
+                    <p className="inline-flex rounded-full bg-white/10 px-4 py-2 text-sm text-slate-200 ring-1 ring-white/10">Full-Stack Developer • IT Solutions Specialist • Graphic Designer</p>
                     <h1 className="text-4xl font-semibold tracking-tight text-white sm:text-5xl">Hi, I’m Daisy Glenn!</h1>
                     <p className="max-w-2xl text-slate-300 sm:text-lg">I'm a Full-Stack Developer with 10+ years of experience specializing in PHP-based full-stack development and IT solutions. Expert in the end-to-end lifecycle of web systems and process automation. Currently expanding technical proficiency into Java, Kotlin, and Python to bring multi-language versatility to enterprise-level digital transformation projects.</p>
                     <div className="flex flex-col gap-4 sm:flex-row sm:items-center">
